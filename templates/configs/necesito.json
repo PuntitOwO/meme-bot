@@ -1,0 +1,28 @@
+{
+    "image_path": "../templates/images/necesito.png",
+    "font_path": "../templates/fonts/bitstream-vera-sans-mono/VeraMoBd.ttf",
+    "text": {
+        "x": 610,
+        "y": 130,
+        "prefix": null,
+        "suffix": null,
+        "anchor": "ra",
+        "align": "right",
+        "size": 24,
+        "max_width": 295,
+        "color": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "stroke": {
+            "active": false,
+            "size": 0,
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            }
+        }
+    }
+}

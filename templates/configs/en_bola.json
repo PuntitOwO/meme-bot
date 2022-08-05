@@ -1,0 +1,28 @@
+{
+    "image_path": "../templates/images/enbola.png",
+    "font_path": "../templates/fonts/bitstream-vera-sans-mono/VeraMoBd.ttf",
+    "text": {
+        "x": 500,
+        "y": 1000,
+        "prefix": "YO DEBERIA",
+        "suffix": "Q OPINAN PERROS CULIAOS IJOS DEL PICO",
+        "anchor": "md",
+        "align": "center",
+        "size": 54,
+        "max_width": 900,
+        "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "stroke": {
+            "active": true,
+            "size": 4,
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            }
+        }
+    }
+}

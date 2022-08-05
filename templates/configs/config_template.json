@@ -1,0 +1,28 @@
+{
+    "image_path": "",
+    "font_path": "",
+    "text": {
+        "x":,
+        "y":,
+        "prefix":,
+        "suffix":,
+        "anchor":,
+        "align":,
+        "size":,
+        "max_width":,
+        "color": {
+            "r":,
+            "g":,
+            "b":
+        },
+        "stroke": {
+            "active":,
+            "size":,
+            "color": {
+                "r":,
+                "g":,
+                "b":
+            }
+        }
+    }
+}
